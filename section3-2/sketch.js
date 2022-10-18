@@ -12,7 +12,7 @@ function setup(){
 }
 
 function draw(){
-  background(160, 192, 255);
+  //background(160, 192, 255);
   ellipse(x, y, 20, 20);
   x += vx;
   y += vy;
